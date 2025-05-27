@@ -38,7 +38,6 @@ The plugin uses environment variables for configuration. You can set these in yo
 | Variable | Description | Default | Required |
 |----------|-------------|---------|----------|
 | `SLACK_NOTIFIER_ENABLED` | Enable/disable notifications | `true` | ❌ No |
-| `SLACK_NOTIFIER_BOT_NAME` | Bot name displayed in Slack | `MCP Helper` | ❌ No |
 
 ### Setting up Slack Webhook
 
