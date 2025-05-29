@@ -1,2 +1,2 @@
 # agentkit_plugins
- A collection of plugins for my AgentKit project.
+Deprecated - refer to https://github.com/ld-agent
